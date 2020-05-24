@@ -11,7 +11,7 @@ npm i music-genres
 ## Example
 
 ```javascript
-const musicGenres = require('music-genres);
+const musicGenres = require('music-genres');
 
 musicGenres.getAllGenres();
 // Returns all genres - an object holding genres
