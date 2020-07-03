@@ -22,3 +22,4 @@ musicGenres.getRandomGenre();
 musicGenres.getRandomSubgenre();
 // Returns random subgenre - a string
 ```
+https://www.npmjs.com/package/music-genres
